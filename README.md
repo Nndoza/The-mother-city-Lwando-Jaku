@@ -1,4 +1,4 @@
-# 🏢The Mother City
+# The Mother City
 
 A simple webpage showcasing Cape Town, South Africa, also known as the Mother City.
 
